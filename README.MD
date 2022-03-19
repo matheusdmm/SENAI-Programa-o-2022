@@ -10,6 +10,8 @@ Conteúdo da disciplina de Modelagem de Sistemas com enfase em programação.
 - loops / laços repetição
 - vetores / arrays
 - listas
+- funções/métodos
+- variaveis globais e locais
 
 ### Referências:
 Microsoft. C# Reference Guide,  2022. Disponível em: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/​
