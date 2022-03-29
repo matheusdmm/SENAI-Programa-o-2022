@@ -1,0 +1,22 @@
+1- Faça um programa que receba a entrada de uma temperatura em Celcius e converta ela para Fahrenheit, depois faça a versão do programa que receba a temperatura em Fahrenheit e converta para Celcius. 
+A fórmula da conversão para fahrenheit é celsius = (f - 32) * 5 / 9 e de celsius para fahrenheit é = f = celsius * 18 / 10 + 32
+
+2- Escreva um programa que receba dois valores de qualquer tipo e aloque os respectivos valores em suas váriaveis. Depois pense em uma forma de alterar entre si os valores das variaveis.
+
+3- Escreva um programa que receba dois valores inteiros, multiplique os valores entre si e depois verifique se o resultado entre a multiplicação é divisivel entre 2 ou 3, e por fim exiba o resultado na tela. Caso o resultado NÃO seja divisivel, o programa terá que exibir o valor soma entre eles.
+
+4- Escreva um programa que verifique se determinado ano é bisexto. 
+Um ano é bisexto quando o ano é divisivel por 4, porém quando é ano de virada de século, ele só pode ser bisexto caso seja divisivel por 100 ou por 400 
+
+5- Crie um programa que verifique se determinado número é primo.
+Números primos são números inteiros não negativos que são divisiveis apenas por 1 e por ele mesmo.
+
+6- Tente implementar a cifra de césar. A cifra de césar é um tipo de cifra de substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes. Por exemplo, com uma troca de três posições, A seria substituído por D, B se tornaria E, e assim por diante. BÔNUS
+
+7 - Escreva um programa que verifique se um determinado número é multiplo de 3 ou de 7.
+
+8 - Escreva um programa que escreva todos os numeros primos de 1 até N, sendo N um valor inserido pelo usuário. BÔNUS
+
+9 - Escreva um programa que faça uma contagem regressiva de N até 1.
+
+10 - Calcule a sequência de fibonacci de 1 até n.

@@ -1,0 +1,6 @@
+Exercicios projeto euler
+
+1 - Agora que sabemos que os seis primeiros números primos são 2,3,5,7,11 e 13, podemos ver por dedução lógica que o sexto número primo na ordem é 13. Seguindo esta dedução, qual é o 10 001 número primo?
+
+2 - Se listarmos todos os números naturais abaixo de 10 que são multiplos de 3 ou de 5, vamos encontrar 3,5,6 e 9. A soma destes multiplos é 23. Encontre a soma de todos os multiplos de 3 e de 5 abaixo de 1000.
+
